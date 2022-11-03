@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: #ffffff
+}
+
+
+em strong {
+    color: rgb(54, 133, 236);
+}
+#banner {
+    width: 30%;
+}
+h1{
+text-align: center;
+height: 80%;
+border: 10px solid #000000;
+padDing-top: 20px
+margin-left 15px;
+}
+ .itens {
+     font-size: 25;
+     vertical-align: text-bottom;
+     color: rgb(0, 0, 0);
+  
+ }
+ .Localização {
+    color: rgb(26, 49, 151);
+
+}
+
+.Beneficios {
+    color: rgb(26, 49, 151);
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    margin-right: 15%;
+}
+.spaa {
+    width: 20%;
+}
+.piscinaa {
+    width: 20%;
+}
